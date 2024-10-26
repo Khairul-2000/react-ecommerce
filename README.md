@@ -11,8 +11,12 @@ In terminal write those command
 
 # Website
 
+Mobile responsive:
+
 ![alt text](image.png)
 
-## Presenting
+Home Page:
+![alt text](image-1.png)
 
-<video controls src="Untitled video - Made with Clipchamp.mp4" title="Title"></video>
+Cart Page:
+![alt text](image-2.png)
